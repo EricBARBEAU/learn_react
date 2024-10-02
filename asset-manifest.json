@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learn_react/static/css/main.67cf9567.css",
-    "main.js": "/learn_react/static/js/main.8d666f99.js",
+    "main.js": "/learn_react/static/js/main.11ecf9c6.js",
     "static/media/phl-chat.webm": "/learn_react/static/media/phl-chat.02d93bca8436e0bdfcc9.webm",
     "static/media/roomorama.png": "/learn_react/static/media/roomorama.5ca5116a7c821206c789.png",
     "static/media/phixl.png": "/learn_react/static/media/phixl.ce514a9796044d38a0a6.png",
@@ -9,6 +9,7 @@
     "static/media/phl-chat.mp4": "/learn_react/static/media/phl-chat.0c4d81dafdf519ba43e6.mp4",
     "static/media/phl-admin.png": "/learn_react/static/media/phl-admin.6bd5d66a0f7e02767446.png",
     "static/media/2degrees.png": "/learn_react/static/media/2degrees.12ef14dc04e0948a6205.png",
+    "static/media/Eric.png": "/learn_react/static/media/Eric.3befb6f6e705c0ef0266.png",
     "static/media/msteams.png": "/learn_react/static/media/msteams.d9986553d8b43ee82ae3.png",
     "static/media/phl-chat-bg.png": "/learn_react/static/media/phl-chat-bg.063e8cd0de113bd8f2f2.png",
     "index.html": "/learn_react/index.html",
@@ -20,10 +21,10 @@
     "static/media/back-light.svg": "/learn_react/static/media/back-light.753bfa51b5ef34e4bc5a.svg",
     "static/media/back-dark.svg": "/learn_react/static/media/back-dark.ac0516306113e6be2810.svg",
     "main.67cf9567.css.map": "/learn_react/static/css/main.67cf9567.css.map",
-    "main.8d666f99.js.map": "/learn_react/static/js/main.8d666f99.js.map"
+    "main.11ecf9c6.js.map": "/learn_react/static/js/main.11ecf9c6.js.map"
   },
   "entrypoints": [
     "static/css/main.67cf9567.css",
-    "static/js/main.8d666f99.js"
+    "static/js/main.11ecf9c6.js"
   ]
 }
