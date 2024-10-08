@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/learn_react/static/css/main.2644ea99.css",
-    "main.js": "/learn_react/static/js/main.f42e79e9.js",
+    "main.css": "/learn_react/static/css/main.8253bac1.css",
+    "main.js": "/learn_react/static/js/main.7bf6f030.js",
+    "static/media/Eric_new.jpg": "/learn_react/static/media/Eric_new.95ef227c67b216f7973a.jpg",
     "static/media/roomorama.png": "/learn_react/static/media/roomorama.5ca5116a7c821206c789.png",
     "static/media/phixl.png": "/learn_react/static/media/phixl.ce514a9796044d38a0a6.png",
     "static/media/unitec.png": "/learn_react/static/media/unitec.a0e52a18560591d01153.png",
     "static/media/phl-admin.png": "/learn_react/static/media/phl-admin.6bd5d66a0f7e02767446.png",
     "static/media/2degrees.png": "/learn_react/static/media/2degrees.12ef14dc04e0948a6205.png",
-    "static/media/Eric.png": "/learn_react/static/media/Eric.3befb6f6e705c0ef0266.png",
     "static/media/msteams.png": "/learn_react/static/media/msteams.d9986553d8b43ee82ae3.png",
     "static/media/phl-chat-bg.png": "/learn_react/static/media/phl-chat-bg.063e8cd0de113bd8f2f2.png",
     "index.html": "/learn_react/index.html",
@@ -18,11 +18,11 @@
     "static/media/right-arrow-light.svg": "/learn_react/static/media/right-arrow-light.b9742350877866c34694.svg",
     "static/media/back-light.svg": "/learn_react/static/media/back-light.753bfa51b5ef34e4bc5a.svg",
     "static/media/back-dark.svg": "/learn_react/static/media/back-dark.ac0516306113e6be2810.svg",
-    "main.2644ea99.css.map": "/learn_react/static/css/main.2644ea99.css.map",
-    "main.f42e79e9.js.map": "/learn_react/static/js/main.f42e79e9.js.map"
+    "main.8253bac1.css.map": "/learn_react/static/css/main.8253bac1.css.map",
+    "main.7bf6f030.js.map": "/learn_react/static/js/main.7bf6f030.js.map"
   },
   "entrypoints": [
-    "static/css/main.2644ea99.css",
-    "static/js/main.f42e79e9.js"
+    "static/css/main.8253bac1.css",
+    "static/js/main.7bf6f030.js"
   ]
 }
