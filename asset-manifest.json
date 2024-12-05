@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/learn_react/static/css/main.b0acea0b.css",
-    "main.js": "/learn_react/static/js/main.76e29a10.js",
+    "main.css": "/learn_react/static/css/main.81f26b05.css",
+    "main.js": "/learn_react/static/js/main.89d07cac.js",
     "static/media/Eric_new.jpg": "/learn_react/static/media/Eric_new.95ef227c67b216f7973a.jpg",
     "static/media/roomorama.png": "/learn_react/static/media/roomorama.5ca5116a7c821206c789.png",
     "static/media/phixl.png": "/learn_react/static/media/phixl.ce514a9796044d38a0a6.png",
     "static/media/unitec.png": "/learn_react/static/media/unitec.a0e52a18560591d01153.png",
+    "static/media/jmrvisas_2.png": "/learn_react/static/media/jmrvisas_2.363f5a92924b9b5be6e8.png",
     "static/media/phl-admin.png": "/learn_react/static/media/phl-admin.6bd5d66a0f7e02767446.png",
     "static/media/2degrees.png": "/learn_react/static/media/2degrees.12ef14dc04e0948a6205.png",
     "static/media/msteams.png": "/learn_react/static/media/msteams.d9986553d8b43ee82ae3.png",
@@ -18,11 +19,11 @@
     "static/media/right-arrow-light.svg": "/learn_react/static/media/right-arrow-light.b9742350877866c34694.svg",
     "static/media/back-light.svg": "/learn_react/static/media/back-light.753bfa51b5ef34e4bc5a.svg",
     "static/media/back-dark.svg": "/learn_react/static/media/back-dark.ac0516306113e6be2810.svg",
-    "main.b0acea0b.css.map": "/learn_react/static/css/main.b0acea0b.css.map",
-    "main.76e29a10.js.map": "/learn_react/static/js/main.76e29a10.js.map"
+    "main.81f26b05.css.map": "/learn_react/static/css/main.81f26b05.css.map",
+    "main.89d07cac.js.map": "/learn_react/static/js/main.89d07cac.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0acea0b.css",
-    "static/js/main.76e29a10.js"
+    "static/css/main.81f26b05.css",
+    "static/js/main.89d07cac.js"
   ]
 }
